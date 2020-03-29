@@ -1,14 +1,19 @@
 {
-  "name": "gulp_test",
+  "name": "gulp-starter-webproject",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "description": "Starter for webproject with GULP 4",
+  "keywords": [
+    "GULP 4",
+    "AUTOPREFIXER",
+    "CSSNANO",
+    "BABEL",
+    "SASS",
+    "IMAGEMIN",
+    "SOURCEMAPS",
+    "DEVELOPMENT AND BUILD"
+  ],
+  "author": "Arjen Combee <mailto: arjencombee@gmail.com>",
+  "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.9.0",
     "@babel/preset-env": "^7.9.0",
