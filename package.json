@@ -33,7 +33,7 @@
     "node-sass": "^4.13.1"
   },
   "browserslist": [
-    "Last 2 versions",
+    "Last 3 versions",
     "> 5%",
     "IE 10"
   ]
